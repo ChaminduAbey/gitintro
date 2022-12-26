@@ -17,4 +17,8 @@ public class GitIntro {
         // TODO code application logic here
     }
     
+    public static void chamindu() {
+        System.out.println("Chamindu");
+    }
+    
 }
