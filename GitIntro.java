@@ -17,4 +17,7 @@ public class GitIntro {
         // TODO code application logic here
     }
     
+    public static void jithma() {
+        System.out.println("Jithma");
+    }
 }
