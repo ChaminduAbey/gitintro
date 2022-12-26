@@ -16,8 +16,12 @@ public class GitIntro {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+     
     public static void jithma() {
         System.out.println("Jithma");
+    } 
+    public static void chamindu() {
+        System.out.println("Chamindu");
     }
+     
 }
