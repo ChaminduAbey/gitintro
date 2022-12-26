@@ -15,7 +15,7 @@ public class GitIntro {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Week 1");
+        System.out.println("Week 1.0");
     }
      
     public static void jithma() {
